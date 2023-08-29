@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi, I'm Nastya 👋
+Junior Java Developer. I'm currently studying at Voronezh State University.
 
-<!--
-**Arcturs/Arcturs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+   <a href="https://github.com/arcturs/github-readme-stats"><img height=150
+                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arcturs&layout=compact"/></a>
+</p>
 
-Here are some ideas to get you started:
+<p align='center'>
+<a href="https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F-%D1%81%D0%B0%D1%88%D0%B8%D0%BD%D0%B0-864680244/">
+       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+   </a>
+  <a href="https://t.me/andr0me">
+       <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
+   </a>
+<p align='center'>
+   📫 How to reach me: <a href='mailto:yaninasty2010@yandex.ru'>yaninasty2010@yandex.ru</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Key points
+*   Currently working at [Tinkoff](https://www.linkedin.com/company/tinkoff/)
+*   Used to work in [DataArt](https://www.linkedin.com/company/dataart/)
+*   Graduated from Yandex Backend School 2022
+*   Awardee in I'm Professional olympiad (Software engineering track)
+
+## 🛠 Technical Stack
+*   Java/Python languages
+*   PostgreSQL, Flyway, Liquibase
+*   Spring Framework, Spring Boot
+*   RabbitMQ, Apache Kafka, Debezium
