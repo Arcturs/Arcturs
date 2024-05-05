@@ -14,7 +14,7 @@ Junior Java Developer. I'm currently studying at Voronezh State University.
        <img src="https://img.shields.io/badge/telegram-%230077B5.svg?&style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
 <p align='center'>
-   📫 How to reach me: <a href='mailto:yaninasty2010@yandex.ru'>yaninasty2010@yandex.ru</a>
+   📫 How to reach me: <a href='mailto:yaninastya2010@yandex.ru'>yaninastya2010@yandex.ru</a>
 </p>
 
 
