@@ -7,7 +7,7 @@ Junior Java Developer. I'm currently studying at Voronezh State University.
 </p>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/%D0%B0%D0%BD%D0%B0%D1%81%D1%82%D0%B0%D1%81%D0%B8%D1%8F-%D1%81%D0%B0%D1%88%D0%B8%D0%BD%D0%B0-864680244/">
+<a href="https://ru.linkedin.com/in/anastasiya-sashina-864680244">
        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
    </a>
   <a href="https://t.me/andr0me">
