@@ -1,5 +1,5 @@
 # Hi, I'm Nastya 👋
-Junior Java Developer. I'm currently studying at Voronezh State University.
+Java Developer. I'm currently studying at ITMO University.
 
 <p align='center'>
    <a href="https://github.com/arcturs/github-readme-stats"><img height=150
@@ -25,7 +25,8 @@ Junior Java Developer. I'm currently studying at Voronezh State University.
 *   Awardee in I'm Professional olympiad (Software engineering track)
 
 ## 🛠 Technical Stack
-*   Java/Python languages
+*   Java/Kotlin languages
 *   PostgreSQL, Flyway, Liquibase
 *   Spring Framework, Spring Boot
-*   RabbitMQ, Apache Kafka, Debezium
+*   Reactive programming (R2DBC, Netty, Project Reactor), Kotlin Coroutines
+*   RabbitMQ, Apache Kafka
