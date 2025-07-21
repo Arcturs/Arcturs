@@ -1,7 +1,7 @@
 # Hi, I'm Nastya!
 
 # 💫 About Me:
-🎓 Graduated from Voronezh State University as BCS, currently MSc student at ITMO University<br>🔭 Used to work at DataArt, Itentika, T-Bank<br>⚡ I'm interested in big data technologies and their implementation in data-intensive systems
+🎓 Graduated from Voronezh State University as BCS, currently MSc student at ITMO University<br>🔭 Used to work at DataArt, Itentika, T-Bank, Ozon Tech<br>⚡ I'm interested in big data technologies and their implementation in data-intensive systems
 
 
 ## 🌐 Socials:
